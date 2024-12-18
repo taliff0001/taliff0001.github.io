@@ -4,3 +4,5 @@
 
 layout: home
 ---
+![](bitchin_def.png)
+
